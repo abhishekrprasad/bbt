@@ -1,0 +1,33 @@
+body{
+
+	background-color: #000;
+	color: #fff;
+	font-family: 'Sanchez', serif;
+}
+
+.navbar-nav{
+    float: right;
+}
+
+h1{
+
+	font-size: 3.5vw;
+	-webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    -ms-background-clip: text;
+    -ms-text-fill-color: transparent;
+    -o-background-clip: text;
+    -o-text-fill-color: transparent;
+    background: linear-gradient(330deg, #e05252 0%, #99e052 25%, #52e0e0 50%, #9952e0 75%, #e05252 100%);
+}
+
+h2{
+
+    font-size: 2.5vw;
+}
+
+h3{
+    font-size: 1.5vw;
+}
